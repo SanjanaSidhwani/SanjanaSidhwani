@@ -37,13 +37,11 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SanjanaSidhwani&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=SanjanaSidhwani&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SanjanaSidhwani&show_icons=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaSidhwani&layout=compact&hide_border=true" />
 </p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaSidhwani&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+---
 
 
 <h3 align="center">Consistency • Structure • Growth</h3>
